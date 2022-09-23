@@ -1,0 +1,40 @@
+SL2-46B;Stoccolma
+SA1-3;Nairobi
+MSA21;Cracovia
+AZ-351;Ancona
+GYU;Denver
+sa;Bologna
+BD-25;Hong Kong
+SA-24;Bari
+AZ-245;Marsiglia
+AZ-235;Nuova Delhi
+SA;Valencia
+FLS-244;Oslo
+ksm-92;Varsavia
+mu-214;Nuova Delhi
+AA-33;Firenze
+AZ-456;Roma
+SASASA;Pechino
+AZ-214;Sydney
+sd;Pyeongyang
+SC-A;Nairobi
+SCQ-246;Cagliari
+D-D2;Buenos Aires
+SF-245;Stoccolma
+MV-221;Valencia
+SB-245;Mosca
+SFAV;Cagliari
+NMS-256;Bogotà
+2465;Stanford
+JEW;Ancona
+123;Oslo
+123;Washington
+AS24;Nairobi
+WDG;Mosca
+FLS-246;Genova
+MV-246;Bologna
+KSM-45;Hong Kong
+SKM2;Brindisi
+abc;Barcellona
+kls;Milano
+FW-999;Milano

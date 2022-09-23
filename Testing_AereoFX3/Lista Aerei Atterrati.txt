@@ -1,0 +1,59 @@
+FLS-124;Sydney
+W3Q-1;Stanford
+SAF;Napoli
+SAM1-45;Barcellona
+AW-251;Madrid
+SAA-245;Bologna
+AS-1256;Mosca
+DS;Amsterdam
+FLS-124;Bogotà
+SA-247;Roma
+SA-214;Parigi
+SC-32;Varsavia
+A21-3;Valencia
+SAM-214;Abu Dhabi
+ASL-124;Los Angeles
+SA-124;Buenos Aires
+SA-214;Amsterdam
+RT-124;Nuova Delhi
+SA1-215;Berlino
+SA-124;Napoli
+SAM1;Praga
+SA-125;Palermo
+RW-24;Praga
+SA-24;Londra
+SF-12;Stoccolma
+SA-124;New York
+SA-21;Cracovia
+SA-235;Bari
+AS-24;Miami
+SO;Miami
+UP-214;Dubai
+fls-124;Pyeongyang
+kw-95;Torino
+SF-46;Milano
+AZ-234;Buenos Aires
+SVF;Londra
+MS-245;Stoccolma
+az;New York
+FLS-241;Lisbona
+SAD-234;Vienna
+SV-211;Bari
+SMS-241;Mosca
+SF-124;Berlino
+AD-24;Berlino
+SL1-35;Washington
+SAF;Varsavia
+AS;Marsiglia
+123;Pyeongyang
+SFH;Hong Kong
+456;Dubai
+SAF;Pyeongyang
+ND-802;Budapest
+SAL-286;Madrid
+MSA-235;Rio
+SA-235;Nuova Delhi
+ABC;Bruxelles
+def;Marsiglia
+aghr;Budapest
+KY-898;Lisbona
